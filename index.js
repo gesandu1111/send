@@ -3,9 +3,9 @@ const fetch = require('node-fetch');
 
 // ---------------- CONFIG ----------------
 const numbers = [
-  '+94XXXXXXXXX', // ඔබේ number
-  '+94YYYYYYYYY', // friend 1 (must agree)
-  '+94ZZZZZZZZZ'  // friend 2 (must agree)
+  '+94784525290', // ඔබේ number
+  '+94710823035', // friend 1 (must agree)
+  '+94776542470'  // friend 2 (must agree)
 ];
 
 const LINK_TO_SEND = 'https://example.com'; // share කරන්න යන link එක
